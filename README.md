@@ -2,6 +2,6 @@
 
 TBD:
 
-1.pagerank like anaysis
+1.pagerank like anaysis (textrank)
 
 2.RBO similarity
